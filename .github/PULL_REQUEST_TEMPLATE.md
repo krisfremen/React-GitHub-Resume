@@ -22,10 +22,11 @@ _Tag any GitHub usernames involved or directly responsible for reviewing the pro
 
 _Your explanation goes here!_
 
-## For transilators.
+## For translators.
 
-- [ ] Create a file called `README.lang.md` in the translations folder.
-  lang means shorten form of your language Refer this [site](https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code).
+- [ ] Create a file called `README.lang.md` in the ```translations``` folder.
+  lang is the shortened form or code of your language.
+  Refer to [this site](https://meta.wikimedia.org/wiki/Template:List_of_language_names_ordered_by_code).
 
 - [ ] Check all the links are working.
 
